@@ -4,21 +4,8 @@ Created on 2016. febr. 23.
 
 Implementation of application interface:
 
-Create Class Application
-    Class should contain the following methods
-    __init__ constructor to describe the atrributes:
-    canvas , title , entry, labels
-    draw_gallow() method to draw the gallow. It would
-    be nice to solve it from picture
-    erase_all() method when starting a new section
-    missed_letters method to show the missed thing.
+Test Sample
 
-The following methods should be included from Hangman_BSW file
-
-
-Need to Fix:
-
-Create buttons for inputs too and for missed letters
 @author: SzuroveczD
 '''
 
